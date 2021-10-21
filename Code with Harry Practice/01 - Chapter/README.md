@@ -8,7 +8,7 @@ Various Android App 📱 built using Java in Android Studio.
 
 ||||
 |:---------------------------------:|:---------------------------------:|:--------------------------------: |
-| ![Imgur](01%20-%20Chapter/01.jpg) | ![Imgur](01%20-%20Chapter/02.jpg) | ![Imgur](01%20-%20Chapter/03.jpg) |
+| ![Imgur](01.jpg) | ![Imgur](02.jpg) | ![Imgur](03.jpg) |
 
 
 
