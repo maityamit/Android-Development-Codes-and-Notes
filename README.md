@@ -3,8 +3,8 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a> <a href="https://www.java.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="Android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="Android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank">  
+
   <h2 align="center">🛣 Full Structure </h2>
   
 
