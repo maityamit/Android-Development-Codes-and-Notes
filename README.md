@@ -8,7 +8,7 @@
 
   <h2 align="center">🛣 Full Structure </h2>
   
-  ## 1. Code With Harry Youtube Video Link   <a href="https://youtu.be/mXjZQX3UzOs" >🔗 Link </a>
+  ## 1. Code With Harry Youtube Video Link   <a href="https://youtu.be/mXjZQX3UzOs" target="blank">🔗 Link </a>
 
   <br>
 
