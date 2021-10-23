@@ -7,8 +7,9 @@
   <h2 align="center">🛣 Full Structure </h2>
   
 ## Codes
-<h4><b>0. <a href="https://github.com/maityamit/Android-Development-Codes-and-Notes/tree/master/Code%20with%20Harry%20Practice/01%20-%20Chapter%20(%20Creating%20First%20App%20)" target="_blank">Chapter 01</a> </b></h4>
-<h4><b>1. <a href="https://github.com/maityamit/Android-Development-Codes-and-Notes/tree/master/Code%20with%20Harry%20Practice/02%20-%20Chapter%20(%20Layout%20%26%20Activity%20)" target="_blank">Chapter 02</a> </b></h4>
+<h4><b>0. <a href="https://github.com/maityamit/Android-Development-Codes-and-Notes/tree/master/Code%20with%20Harry%20Practice/01%20-%20Chapter%20(%20Creating%20First%20App%20)" target="_blank">Chapter 01</a> [ Creating First App ] </b></h4>
+<h4><b>1. <a href="https://github.com/maityamit/Android-Development-Codes-and-Notes/tree/master/Code%20with%20Harry%20Practice/02%20-%20Chapter%20(%20Layout%20%26%20Activity%20)" target="_blank">Chapter 02</a> [ Layout & Activity ]  </b></h4>
+<h4><b>1. <a href="https://github.com/maityamit/Android-Development-Codes-and-Notes/tree/master/Code%20with%20Harry%20Practice/04%20-%20Chapter%20(%20Multiscreen%20Activity%20)" target="_blank">Chapter 04</a> [ Multiscreen Activity ]  </b></h4>
 
 
 
