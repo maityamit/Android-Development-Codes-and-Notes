@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:id="@+id/edittext"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:inputType="textShortMessage"
+        android:hint="Enter a URL"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"/>
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/black"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="15dp"
+        android:padding="10dp"
+        android:textStyle="bold"
+        android:textSize="19sp"
+        android:text="Go to Website"/>
+
+
+    <EditText
+        android:id="@+id/edittext1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:inputType="textShortMessage"
+        android:layout_marginTop="30dp"
+        android:hint="Enter some Text"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"/>
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#F9A825"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="15dp"
+        android:padding="10dp"
+        android:textStyle="bold"
+        android:textSize="19sp"
+        android:text="Email Send"/>
+
+
+
+
+
+</LinearLayout>
