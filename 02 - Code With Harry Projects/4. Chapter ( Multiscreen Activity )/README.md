@@ -10,6 +10,7 @@ Various Android App 📱 built using Java in Android Studio.
 ||||
 |:---------------------------------:|:---------------------------------:|:--------------------------------:|
 | <img src="1.gif" alt="drawing" width="400"/> | <img src="2.gif" alt="drawing" width="400"/> | <img src="3.gif" alt="drawing" width="400"/> | 
+  | <img src="4.jpg" alt="drawing" width="300"/> | <img src="5.gif" alt="drawing" width="300"/> | <img src="6.gif" alt="drawing" width="300"/> | 
 
 
 
