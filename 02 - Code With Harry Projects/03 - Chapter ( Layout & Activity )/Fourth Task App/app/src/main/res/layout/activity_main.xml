@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginStart="30dp"
+        android:hint="Enter Your Name"
+        android:textSize="17sp"
+        android:inputType="textPersonName"
+        android:textColor="@android:color/black"
+        android:layout_marginEnd="30dp"/>
+
+    <EditText
+        android:id="@+id/query"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginStart="30dp"
+        android:hint="Enter Your Query"
+        android:textSize="17sp"
+        android:inputType="textShortMessage"
+        android:textColor="@android:color/black"
+        android:layout_marginEnd="30dp"/>
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginStart="30dp"
+        android:hint="Enter Your Email"
+        android:textSize="17sp"
+        android:inputType="textEmailAddress"
+        android:textColor="@android:color/black"
+        android:layout_marginEnd="30dp"/>
+
+    <EditText
+        android:id="@+id/number"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginStart="30dp"
+        android:hint="Enter Your Number"
+        android:textSize="17sp"
+        android:inputType="phone"
+        android:textColor="@android:color/black"
+        android:layout_marginEnd="30dp"/>
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#283593"
+        android:textStyle="bold"
+        android:background="#00838F"
+        android:textSize="17sp"
+        android:layout_marginTop="20dp"
+        android:text="Submit"/>
+
+
+
+</LinearLayout>
