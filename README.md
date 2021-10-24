@@ -13,7 +13,7 @@
 
 |||||
 |:---------------------------------:|:---------------------------------:|:--------------------------------:|:--------------------------------: |
-| <img src="05%20-%20Extras%20Things/own.png" alt="drawing" width="400"/> | <img src="05%20-%20Extras%20Things/harry.png" alt="drawing" width="400"/> | <img src="05%20-%20Extras%20Things/anuj.png" alt="drawing" width="400"/> | <img src="05%20-%20Extras%20Things/udacity.png" alt="drawing" width="400"/> | 
+| <a href="https://www.qries.com/"><img src="05%20-%20Extras%20Things/own.png" alt="drawing" width="400"/> </a>| <img src="05%20-%20Extras%20Things/harry.png" alt="drawing" width="400"/> | <img src="05%20-%20Extras%20Things/anuj.png" alt="drawing" width="400"/> | <img src="05%20-%20Extras%20Things/udacity.png" alt="drawing" width="400"/> | 
 
 
   
