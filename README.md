@@ -39,6 +39,22 @@
   |||
   | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/android_sngel_harry.jpg" alt="drawing" width="250"/> | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/android_anuj_bhaiya_full.jpg" alt="drawing" width="250"/> | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/android_harry_full.png" alt="drawing" width="250"/> |
  
+ <br>
+ 
+## 04 - Professional Android Studio from UDACITY
+ 
+ <p align="center"><img src="05%20-%20Extras%20Things/udacity.png" width="200"/><p>
+ 
+ 
+ |||||||
+ |:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|
+ | <h4>User Interface</h4> | <a href="https://www.udacity.com/course/android-basics-user-interface--ud834">Link </a> | <h4>User Input</h4> | <a href="https://www.udacity.com/course/android-basics-user-input--ud836">Link </a> | <h4>Multi Screen App</h4> | <a href="https://www.udacity.com/course/android-basics-multiscreen-apps--ud839">Link </a> |
+ | <h4>Networking</h4> | <a href="https://www.udacity.com/course/android-basics-networking--ud843">Link </a> | <h4>Data Storage</h4> | <a href="https://www.udacity.com/course/android-basics-data-storage--ud845">Link </a> | <h4>Advance Android Development</h4> | Link |
+ | <h4>Developing Android App</h4> | <a href="https://www.udacity.com/course/new-android-fundamentals--ud851">Link </a> | <h4>Firebase</h4> | <a href="https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352">Link </a> | <h4>Firebase Analytics</h4> | <a href="https://www.udacity.com/course/firebase-analytics-android--ud354">Link </a> |
+ 
+ <br>
+ 
+## 05 - Some Simple Projetcs
 
 |||||
 |:---------------------------------:|:---------------------------------:|:--------------------------------:|:--------------------------------: |
