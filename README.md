@@ -1,15 +1,44 @@
-# Android Studio Notes and Codes by Amit Maity
+# Android Studio Codes with structural guides by Amit Maity
+ ( *** This structure is based on my opinion by which I learn , not paid promo or anything else , just take it fairly )
 
-
+<br>
 
 ## ⚙️ Technology Used
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Android" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="Android" width="40" height="40"/>
   
   
-<h2 align="center">🛣 Repo Structure Projects </h2>
+<h2 align="center">🛣 Android Studio Structure </h2>
 <br>
 
 
+## 01 - Git and Github
+
+|||
+|:---------------------------------:|:---------------------------------:|
+| Kunal Khuswaha | Youtube Video |
+|<img src="05%20-%20Extras%20Things/kunal_khuswaha.png" alt="drawing" width="200"/> | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/kunal_git.jpg" alt="drawing" width="250"/>
+
+  <br>
+  
+## 02 - Basic Java
+||||
+|:---------------------------------:|:---------------------------------:|:---------------------------------:|  
+| <img src="05%20-%20Extras%20Things/harry.png" alt="drawing" width="200"/> |<img src="05%20-%20Extras%20Things/anuj.png" alt="drawing" width="200"/> |<img src="05%20-%20Extras%20Things/aman_bhaiya.png" alt="drawing" width="200"/> | 
+  | | |
+| <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/java_harry.jpg" alt="drawing" width="250"/> | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/java_anuj.jpg" alt="drawing" width="250"/> | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/java_aman.jpg" alt="drawing" width="250"/> |
+
+<br>
+  
+## 03 - Core Android
+  
+||||
+|:---------------------------------:|:---------------------------------:|:---------------------------------:|
+  | <h3><b>Code With Harry Single Video</b></h3> | <h3><b>Anuj Bhaiya Full Playlist</b></h3> |<h3><b>Code With Harry Full Playlist</b></h3> |
+  | 11 hrs - JAVA | 18 videos - KOTLIN | 34 videos - KOTLIN |
+|<img src="05%20-%20Extras%20Things/harry.png" alt="drawing" width="200"/> |<img src="05%20-%20Extras%20Things/anuj.png" alt="drawing" width="200"/> |<img src="05%20-%20Extras%20Things/harry.png" alt="drawing" width="200"/> |
+  |||
+  | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/android_sngel_harry.jpg" alt="drawing" width="250"/> | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/android_anuj_bhaiya_full.jpg" alt="drawing" width="250"/> | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/android_harry_full.png" alt="drawing" width="250"/> |
+ 
 
 |||||
 |:---------------------------------:|:---------------------------------:|:--------------------------------:|:--------------------------------: |
