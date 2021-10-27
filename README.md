@@ -1,5 +1,7 @@
 # Android Studio Codes with structural guides by Amit Maity
  ( *** This structure is based on my opinion by which I learn , not paid promo or anything else , just take it fairly )
+ 
+ #### *** Updating this [ Currently Working ]
 
 <br>
 
