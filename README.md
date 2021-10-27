@@ -11,6 +11,18 @@
 <br>
 
 
+1. <h4>Git and Github</h4>
+2. <h4>Basic Java</h4>
+3. <h4>Some Simple Android Core</h4>
+4. <h4>Professional Android from UDACITY</h4>
+5. <h4>Some Simple Projects</h4>
+6. <h4>Some Advance Project</h4>
+
+
+<br>
+
+<br>
+
 ## 01 - Git and Github
 
 |||
@@ -34,7 +46,7 @@
 ||||
 |:---------------------------------:|:---------------------------------:|:---------------------------------:|
   | <h3><b>Code With Harry Single Video</b></h3> | <h3><b>Anuj Bhaiya Full Playlist</b></h3> |<h3><b>Code With Harry Full Playlist</b></h3> |
-  | 11 hrs - JAVA | 18 videos - KOTLIN | 34 videos - KOTLIN |
+  | 11 hrs - JAVA | 18 videos - KOTLIN | 34 videos - JAVA |
 |<img src="05%20-%20Extras%20Things/harry.png" alt="drawing" width="200"/> |<img src="05%20-%20Extras%20Things/anuj.png" alt="drawing" width="200"/> |<img src="05%20-%20Extras%20Things/harry.png" alt="drawing" width="200"/> |
   |||
   | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/android_sngel_harry.jpg" alt="drawing" width="250"/> | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/android_anuj_bhaiya_full.jpg" alt="drawing" width="250"/> | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/android_harry_full.png" alt="drawing" width="250"/> |
