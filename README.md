@@ -31,7 +31,7 @@
 |||
 |:---------------------------------:|:---------------------------------:|
 | Kunal Khuswaha | Youtube Video |
-|<img src="05%20-%20Extras%20Things/kunal_khuswaha.png" alt="drawing" width="200"/> | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/kunal_git.jpg" alt="drawing" width="250"/>
+|<img src="05%20-%20Extras%20Things/kunal_khuswaha.png" alt="drawing" width="200"/> | <a href="https://youtu.be/apGV9Kg7ics"><img src="05%20-%20Extras%20Things/Thumbnil/kunal_git.jpg" alt="drawing" width="250"/>
 
   <br>
   
@@ -40,7 +40,7 @@
 |:---------------------------------:|:---------------------------------:|:---------------------------------:|  
 | <img src="05%20-%20Extras%20Things/harry.png" alt="drawing" width="200"/> |<img src="05%20-%20Extras%20Things/anuj.png" alt="drawing" width="200"/> |<img src="05%20-%20Extras%20Things/aman_bhaiya.png" alt="drawing" width="200"/> | 
   | | |
-| <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/java_harry.jpg" alt="drawing" width="250"/> | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/java_anuj.jpg" alt="drawing" width="250"/> | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/java_aman.jpg" alt="drawing" width="250"/> |
+| <a href="https://youtu.be/rV_3Lewxx6o"><img src="05%20-%20Extras%20Things/Thumbnil/java_harry.jpg" alt="drawing" width="250"/> | <a href="https://youtu.be/aQatrXw0njs"><img src="05%20-%20Extras%20Things/Thumbnil/java_anuj.jpg" alt="drawing" width="250"/> | <a href="https://youtu.be/UmnCZ7-9yDY"><img src="05%20-%20Extras%20Things/Thumbnil/java_aman.jpg" alt="drawing" width="250"/> |
 
 <br>
   
@@ -52,7 +52,7 @@
   | 11 hrs - JAVA | 18 videos - KOTLIN | 34 videos - JAVA |
 |<img src="05%20-%20Extras%20Things/harry.png" alt="drawing" width="200"/> |<img src="05%20-%20Extras%20Things/anuj.png" alt="drawing" width="200"/> |<img src="05%20-%20Extras%20Things/harry.png" alt="drawing" width="200"/> |
   |||
-  | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/android_sngel_harry.jpg" alt="drawing" width="250"/> | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/android_anuj_bhaiya_full.jpg" alt="drawing" width="250"/> | <a href=""><img src="05%20-%20Extras%20Things/Thumbnil/android_harry_full.png" alt="drawing" width="250"/> |
+  | <a href="https://youtu.be/mXjZQX3UzOs"><img src="05%20-%20Extras%20Things/Thumbnil/android_sngel_harry.jpg" alt="drawing" width="250"/> | <a href="https://youtube.com/playlist?list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb"><img src="05%20-%20Extras%20Things/Thumbnil/android_anuj_bhaiya_full.jpg" alt="drawing" width="250"/> | <a href="https://youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd"><img src="05%20-%20Extras%20Things/Thumbnil/android_harry_full.png" alt="drawing" width="250"/> |
  
  <br>
  
