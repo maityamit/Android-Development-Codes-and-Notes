@@ -1,30 +1,29 @@
-# Android Studio Codes with structural guides by Amit Maity
+# Native Android structural guides
  ( *** This structure is based on my opinion by which I learn , not paid promo or anything else , just take it fairly )
  
- #### *** Updating this [ Currently Working ]
 
 <br>
 
 ## ⚙️ Technology Used
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Android" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="Android" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="Android" width="40" height="40"/>
   
   
-<h2 align="center">🛣 Android Studio Structure </h2>
+<h2 align="center">🛣 Native Android Dev Step by Step </h2>
 <br>
 
-
-1. <h4>Git and Github</h4>
-2. <h4>Basic Java</h4>
-3. <h4>Some Simple Android Core</h4>
-4. <h4>Professional Android from UDACITY</h4>
-5. <h4><a href="https://developer.android.com/docs">Android Google Documentation</a></h4>
-6. <h4>Some Simple Projects</h4>
-7. <h4>Some Advance Project</h4>
 
 
 <br>
 
 <br>
+
+## 01 - Basic Concept of Programming Language (Java/kotlin)
+
+### Learn Java from Video
+
+|||||
+|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|  
+| <a href="https://youtu.be/8cm1x4bC610"><img src="05%20-%20Extras%20Things/Thumbnil/java_navin.jpg" alt="drawing" width="250"/>| <a href="https://youtu.be/rV_3Lewxx6o"><img src="05%20-%20Extras%20Things/Thumbnil/java_harry.jpg" alt="drawing" width="250"/> | <a href="https://youtu.be/aQatrXw0njs"><img src="05%20-%20Extras%20Things/Thumbnil/java_anuj.jpg" alt="drawing" width="250"/> | <a href="https://youtu.be/UmnCZ7-9yDY"><img src="05%20-%20Extras%20Things/Thumbnil/java_aman.jpg" alt="drawing" width="250"/> |
 
 ## 01 - Git and Github
 
@@ -36,11 +35,7 @@
   <br>
   
 ## 02 - Basic Java
-||||
-|:---------------------------------:|:---------------------------------:|:---------------------------------:|  
-| <img src="05%20-%20Extras%20Things/harry.png" alt="drawing" width="200"/> |<img src="05%20-%20Extras%20Things/anuj.png" alt="drawing" width="200"/> |<img src="05%20-%20Extras%20Things/aman_bhaiya.png" alt="drawing" width="200"/> | 
-  | | |
-| <a href="https://youtu.be/rV_3Lewxx6o"><img src="05%20-%20Extras%20Things/Thumbnil/java_harry.jpg" alt="drawing" width="250"/> | <a href="https://youtu.be/aQatrXw0njs"><img src="05%20-%20Extras%20Things/Thumbnil/java_anuj.jpg" alt="drawing" width="250"/> | <a href="https://youtu.be/UmnCZ7-9yDY"><img src="05%20-%20Extras%20Things/Thumbnil/java_aman.jpg" alt="drawing" width="250"/> |
+
 
 <br>
   
