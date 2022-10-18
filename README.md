@@ -73,17 +73,15 @@
  | <h4>Networking</h4> | <a href="https://www.udacity.com/course/android-basics-networking--ud843">Link </a> | <h4>Data Storage</h4> | <a href="https://www.udacity.com/course/android-basics-data-storage--ud845">Link </a> | <h4>Advance Android Development</h4> | Link |
  | <h4>Developing Android App</h4> | <a href="https://www.udacity.com/course/new-android-fundamentals--ud851">Link </a> | <h4>Firebase</h4> | <a href="https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352">Link </a> | <h4>Firebase Analytics</h4> | <a href="https://www.udacity.com/course/firebase-analytics-android--ud354">Link </a> |
  
- <br>
+<br>
  
-## 05 - Some Simple Projetcs
-
-|||||
-|:---------------------------------:|:---------------------------------:|:--------------------------------:|:--------------------------------: |
-| <a href="https://github.com/maityamit/Android-Development-Codes-and-Notes/tree/master/01%20-%20My%20Application%20Projects"><img src="05%20-%20Extras%20Things/own.png" alt="drawing" width="400"/> </a>|<a href="https://github.com/maityamit/Android-Development-Codes-and-Notes/tree/master/02%20-%20Code%20With%20Harry%20Projects"> <img src="05%20-%20Extras%20Things/harry.png" alt="drawing" width="400"/> </a>|<a href="https://github.com/maityamit/Android-Development-Codes-and-Notes/tree/master/03%20-%20Anuj%20Bhaiya%20Projects"> <img src="05%20-%20Extras%20Things/anuj.png" alt="drawing" width="400"/></a> | <a href="https://github.com/maityamit/Android-Development-Codes-and-Notes/tree/master/04%20-%20Udacity%20Projects"> <img src="05%20-%20Extras%20Things/udacity.png" alt="drawing" width="400"/> </a>| 
-| <a href="https://github.com/maityamit/Android-Development-Codes-and-Notes/tree/master/01%20-%20My%20Application%20Projects"><b>Projects</b></a> | <a href="https://github.com/maityamit/Android-Development-Codes-and-Notes/tree/master/02%20-%20Code%20With%20Harry%20Projects"><b>Projects</b></a> | <a href="https://github.com/maityamit/Android-Development-Codes-and-Notes/tree/master/03%20-%20Anuj%20Bhaiya%20Projects"><b>Projects</b></a> | <a href="https://github.com/maityamit/Android-Development-Codes-and-Notes/tree/master/04%20-%20Udacity%20Projects"><b>Projects</b></a> | 
-|  | <br><a href="https://youtu.be/mXjZQX3UzOs"><b>Youtube Video</b></a> |<br> <a href="https://youtube.com/playlist?list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb"><b>Youtube Playlist</b></a> |<br> <a href="https://www.udacity.com/"><b>Website Link</b></a> |
-| Structure<br><br> <a href="" >Basic Android Studio </a> <br> <a href="">FireBase</a><br> <a href="">Advertisment Monitization</a><br> <a href="">Payment Gateway</a><br><br><br> <br> <br> <br> | Structure<br><br> <a href="" >Creating First App</a> <br> <a href="">Layout Activity</a><br> <a href="">MultiScreen Activity</a><br> <a href="">ListView and RecyclerView</a><br> <a href="">Media</a><br> <a href="">Data Base</a><br> <br> <br> <br>  | Structure<br><br> <a href="" >Birthday Wishing App</a> <br> <a href="">Meme Sharing App</a><br> <a href="">News App</a><br> <a href="">Social Media App</a><br><br><br> <br> <br> <br>  | Structure<br><br> <a href="" >User Interface</a> <br> <a href="">User Input</a><br> <a href="">Multi Screen App</a><br> <a href="">Networking</a><br><a href="">Data Storage</a><br> <a href="">Advance Android Development</a><br><a href="" >Firebase</a> <br> <a href="">Firebase Analytics</a><br> 
-
+## 06 - Topic Wise Learing Path
+ 
+|1|2|3|4|5|6|
+|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|
+|Data Structure , Algo Basics Oops Cocept ClearBasics Programming (Java/Kotlin)Googling / have attitude Function Use ( to small code)|Android Studio Install Android Studio Setup & JDKWhat is XML , Drawable , Main Code|Activity Fragments Diffrent Types of Layout Button , Text View , Edittext Image View , Image Button , Video View|Intent (Activity Change) Data Pass through Intent Data Transfer|Complex UI Design ListView , Recycler View etc implement (dynamic List) Toast , Dialog Box , With text , with image Tabs bar Navigation Drawer|DataBase Local Storage Database (SQL) Online Database (Firebase)|
+|7|8|||||
+|Background apps run Alarm Notifications Sensor Proxitmity Sensor etc|API Fetch (Lots of API have ) (ex. RAPIDAPI , Crickbuzz) 3rd Party Database use basically Authantication (Gmail , Email , Phone , Facebook , Custom ) Payment Page Integration , Ads Integration|||||
 
   
   <br>
