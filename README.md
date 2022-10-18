@@ -1,5 +1,5 @@
 <h1 align="center">Native Android structural guides </h1>
- <h5 align="center">( *** This structure is based on my opinion by which I learn , not paid promo or anything else , just take it fairly )</h5>
+ <h5 align="center">( *** This structure is based on my opinion from where I learn , not paid promo or anything else , just take it fairly )</h5>
  
  
 <h1 align="center"><img src="05%20-%20Extras%20Things/banner.png" width="500"/></h1>
@@ -80,13 +80,32 @@
 |1|2|3|4|5|6|
 |:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|
 |Data Structure , Algo Basics Oops Cocept ClearBasics Programming (Java/Kotlin)Googling / have attitude Function Use ( to small code)|Android Studio Install Android Studio Setup & JDKWhat is XML , Drawable , Main Code|Activity Fragments Diffrent Types of Layout Button , Text View , Edittext Image View , Image Button , Video View|Intent (Activity Change) Data Pass through Intent Data Transfer|Complex UI Design ListView , Recycler View etc implement (dynamic List) Toast , Dialog Box , With text , with image Tabs bar Navigation Drawer|DataBase Local Storage Database (SQL) Online Database (Firebase)|
-|7|8|||||
-|Background apps run Alarm Notifications Sensor Proxitmity Sensor etc|API Fetch (Lots of API have ) (ex. RAPIDAPI , Crickbuzz) 3rd Party Database use basically Authantication (Gmail , Email , Phone , Facebook , Custom ) Payment Page Integration , Ads Integration|||||
+|7|8|9||||
+|Background apps run Alarm Notifications Sensor Proxitmity Sensor etc|API Fetch (Lots of API have ) (ex. RAPIDAPI , Crickbuzz) 3rd Party Database use basically Authantication (Gmail , Email , Phone , Facebook , Custom ) Payment Page Integration , Ads Integration|Some Android Libraries : Picasso Retrofit Glide ZXing||||
 
-  
-  <br>
+<br>
+ 
+## 07 - Some Full fledge App (Building many concepts together)
+ 
+|||||
+|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|
+| <a href="https://youtube.com/playlist?list=PLxefhmF0pcPmtdoud8f64EpgapkclCllj"><img src="05%20-%20Extras%20Things/YTChannels/whatsapp.jpeg" alt="drawing" width="200"/>| <a href="https://youtube.com/playlist?list=PLraJmOvF9eeEHmQX1n1IFGgkJXpuWEwj8"><img src="05%20-%20Extras%20Things/YTChannels/quiz.png" alt="drawing" width="200"/> | <a href="https://youtube.com/playlist?list=PLraJmOvF9eeGyVClKdBaVU6O_XqQjNboS"><img src="05%20-%20Extras%20Things/YTChannels/flipkart.jpeg" alt="drawing" width="200"/> | <a href="https://youtube.com/playlist?list=PLoPTqokme6cUACgZiICiNw8H-F-CoVtPN"><img src="05%20-%20Extras%20Things/YTChannels/instagram.jpeg" alt="drawing" width="200"/> |
+ 
+<br>
+ 
+## 07 - Some Tips
+ 
+1. Remeber: You are not alone who faced this XYZ issue 
+2. Don't copy Single Line of code If you can't understand
 
+ 
+<br>
 
+ <h1 align="center">If you like this please Star this Repo and Follow my GitHub Acc. 🤗</h1>
+ 
+ <br>
+ <br>
+ 
 ## 📲 Connect with me on social media - Amit Maity
 
 
