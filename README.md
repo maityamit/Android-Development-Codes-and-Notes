@@ -1,4 +1,4 @@
-<h1 align="center">Native Android structural guides </h1>
+<h1 align="center">Native Android Structural guides </h1>
  <h5 align="center">( *** This structure is based on my opinion from where I learn , not paid promo or anything else , just take it fairly )</h5>
  
  
@@ -101,7 +101,7 @@
  
 <br>
 
- <h1 align="center">If you like this please Star this Repo and Follow my GitHub Acc. 🤗</h1>
+ <h1 align="center">If you like this please Star ⭐ this Repo and Follow my GitHub Acc. 🤗</h1>
  
  <br>
  <br>
