@@ -1,7 +1,8 @@
-# Native Android structural guides
- ( *** This structure is based on my opinion by which I learn , not paid promo or anything else , just take it fairly )
+<h1 align="center">Native Android structural guides </h1>
+ <h5 align="center">( *** This structure is based on my opinion by which I learn , not paid promo or anything else , just take it fairly )</h5>
  
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="100"/></h1>
+ 
+<h1 align="center"><img src="05%20-%20Extras%20Things/banner.png" width="500"/></h1>
 
 <br>
 
